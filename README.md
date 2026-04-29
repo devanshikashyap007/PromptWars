@@ -31,7 +31,6 @@ StadiumFlow AI is a high-performance web dashboard designed to optimize the atte
    ```bash
    npm start
    ```
-4. Open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## ⚖️ License
 MIT
